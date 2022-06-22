@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **craciuncezar/craciuncezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Screen Recording 2022-06-22 at 22 59 53](https://user-images.githubusercontent.com/27342306/175125956-331ee904-1ce0-4fe1-93b0-1b3abfa970b6.gif)
